@@ -14,7 +14,6 @@
     "url": "https://github.com/rgossiaux/svelte-headlessui/issues"
   },
   "license": "MIT",
-  "repository": "github:rgossiaux/svelte-headlessui",
   "version": "2.0.0",
   "scripts": {
     "dev": "vite dev",
